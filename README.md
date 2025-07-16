@@ -21,6 +21,12 @@ or
 echo "example.com" | python main.py
 ```
 
+## Save output
+
+``` sh
+python script.py example.com > out
+```
+
 ## Credit
 
 forked from [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
